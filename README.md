@@ -1,6 +1,7 @@
 # Optimizing an ML Pipeline in Azure
 
 Author: Avineil Jain
+Note: Some part of the Azure ML Tutorials code have been used in this project. 
 
 ## Overview
 This project is part of the Udacity Azure ML Nanodegree.
@@ -39,3 +40,5 @@ The dataset is highly biased with only 10% of samples being positive. Thus, a si
 
 ## Proof of cluster clean up
 I use my own machine, hence this section is not applicable. 
+
+
